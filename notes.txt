@@ -1,0 +1,3 @@
+//Creates a vanilla javascript repository
+//npm create vite@latest client --template vanilla
+
